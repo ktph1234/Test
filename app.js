@@ -12,7 +12,7 @@ var app = express();
 
 
 
-// view engine setup
+// view engine setup or what else
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'jade');
 
